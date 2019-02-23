@@ -25,7 +25,7 @@ Next you have to Build the Solution and that's all.
 * Run ImgGestureViewer.exe
 * Load images
 * Turn on the camera
-* Follow the gesture
+* Make a gesture
 
 ## Default gestures
 * Next photo - show one finger
