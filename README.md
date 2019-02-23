@@ -19,6 +19,7 @@ More info about EmguCV: http://www.emgu.com
 Using nuget package manager is probably the easiest way to include Emgu CV library in your project. 
 * From your project, right click on "References" and select "Manager Nuget Packages..." option. It will open up nuget package manager. 
 * Under "Browse", enter the search text "emgu cv" and you should be able to find the Emgu.CV nuget pacakge. 
+* *Package "myEmguCV.Net by Tony" includes all necessary EmguCV dlls.
 
 ![nuget](./img/emgucv_nuget.png)
 
