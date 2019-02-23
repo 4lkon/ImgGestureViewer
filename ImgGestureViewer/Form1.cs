@@ -375,15 +375,16 @@ namespace ImgGestureViewer
             {
                 if (capwebcamInProgress)
                 {
-                    //stop kamery
-                    cameraStartBtn.Text = "Włącz kamerę";
-                    Application.Idle -= processFrameAndUpdateGUI;
-                }
-                else
-                {
                     //start kamery
                     cameraStartBtn.Text = "Zatrzymaj kamerę";
                     Application.Idle += processFrameAndUpdateGUI;
+                    
+                }
+                else
+                {
+                    //stop kamery
+                    cameraStartBtn.Text = "Włącz kamerę";
+                    Application.Idle -= processFrameAndUpdateGUI;
                 }
                 capwebcamInProgress = !capwebcamInProgress;
                 gestureRecognize.Text = null;
