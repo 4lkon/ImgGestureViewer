@@ -16,7 +16,7 @@ More info about EmguCV: http://www.emgu.com
 
 ## Usage
 ### Important
-My project includes almost all EmguCV dll, except opencv_gpufilters290.dll and nppi32_55.dll. You can download them from here: [EmguCV_dll](https://wseii-my.sharepoint.com/personal/damian_suchy_microsoft_wsei_edu_pl/Documents/Forms/All.aspx?RootFolder=%2Fpersonal%2Fdamian%5Fsuchy%5Fmicrosoft%5Fwsei%5Fedu%5Fpl%2FDocuments%2FEmguCV%5Fdll&FolderCTID=0x01200020DBE7655526ED46BDE0D40918330C2F) and paste them to the following directory: "C:\...\ImgGestureViewer-master\ImgGestureViewer"
+My project includes almost all EmguCV dll, except opencv_gpufilters290.dll and nppi32_55.dll. You can download them from here: [EmguCV_dll](https://www.dropbox.com/sh/xt0vl1bdzxa8klr/AABr3o49c_8u4BpOtEZ-MqNOa?dl=0) and paste them to the following directory: "C:\...\ImgGestureViewer-master\ImgGestureViewer"
 
 Next you have to Build the Solution and that's all. 
 
