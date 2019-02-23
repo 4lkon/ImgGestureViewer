@@ -132,6 +132,7 @@
             // 
             // actionBox
             // 
+            this.actionBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.actionBox.Location = new System.Drawing.Point(619, 304);
             this.actionBox.Multiline = true;
             this.actionBox.Name = "actionBox";
@@ -212,7 +213,7 @@
             this.Controls.Add(this.imgName);
             this.Controls.Add(this.pictureBox);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "ImgGestureViewer";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.cameraImage)).EndInit();
             this.ResumeLayout(false);
