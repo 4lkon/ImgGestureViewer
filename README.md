@@ -5,7 +5,7 @@ ImgGestureViewer is an application designed to view photos without using periphe
 
 ![main](./img/main.png)
 
-# About Emgu CV
+## About Emgu CV
 Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library. Allowing OpenCV functions to be called from .NET compatible languages such as C#, VB, VC++, IronPython etc. The wrapper can be compiled in Mono and run on Windows, Linux, Mac OS X, iPhone, iPad and Android devices.
 More info about EmguCV: http://www.emgu.com
 ## Technologies
