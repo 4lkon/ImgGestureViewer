@@ -3,7 +3,6 @@
 ## General info
 ImgGestureViewer is an application designed to view photos without using peripherals such as a mouse or keyboard. The program for changing photos uses the user's gestures read from the camera.
 
-## Screenshots
 ![main](./img/main.png)
 
 # About Emgu CV
