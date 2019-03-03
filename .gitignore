@@ -261,3 +261,5 @@ __pycache__/
 *.pyc
 ImgGestureViewer/nppi32_55.dll
 ImgGestureViewer/opencv_gpufilters290.dll
+Build/nppi32_55.dll
+Build/opencv_gpufilters290.dll
