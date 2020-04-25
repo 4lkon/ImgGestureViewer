@@ -40,4 +40,4 @@ Next you have to Build the Solution and that's all.
  
 ## Contact
 Created by [Damian Suchy](https://github.com/4lkon) 
-Mail: damian.suchy@microsoft.wsei.edu.pl
+Mail: alkon612@gmail.com
